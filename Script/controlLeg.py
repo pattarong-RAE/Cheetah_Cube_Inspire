@@ -64,19 +64,6 @@ class ControlLegRobot:
         self.T              = tm
         seta    = np.array([0,0])
         self.Timeperiod(self.O[self.ID_leg][1]-self.Output[1])
-        # if self.count >= 500 and self.count <= 800 and self.ID_leg == 0:
-        #     self.O[self.ID_leg][0] = 0.7
-        #     self.O[self.ID_leg][1] = 0.2
-        # if self.count >= 500 and self.count <= 800 and self.ID_leg == 3:
-        #     self.O[self.ID_leg][0] = 0.7
-        #     self.O[self.ID_leg][1] = 0.2
-        # if self.count >= 50 and self.count <= 0 and self.ID_leg == 0:
-        #     self.O[self.ID_leg][0] = 0.4
-        #     self.O[self.ID_leg][1] = 0.9
-        # if self.count >= 50 and self.count <= 0 and self.ID_leg == 3:
-        #     self.O[self.ID_leg][0] = 0.4
-        #     self.O[self.ID_leg][1] = 0.9
-
         a       = self.outputNeural()
         O       = np.tanh(a)
         self.count += 1

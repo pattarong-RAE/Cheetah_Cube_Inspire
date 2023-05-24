@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR>PADGen 3.1.1.50 http://www.padgen.org</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://pad.asp-software.org</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>Flachmann und Heggelbacher GbR</Company_Name>
+		<Address_1>Waldkirchbogen 27</Address_1>
+		<Address_2 />
+		<City_Town>Neuried</City_Town>
+		<State_Province />
+		<Zip_Postal_Code>D-82061</Zip_Postal_Code>
+		<Country>Germany</Country>
+		<Company_WebSite_URL>http://www.fuh-edv.de</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>Oliver</Author_First_Name>
+			<Author_Last_Name>Heggelbacher</Author_Last_Name>
+			<Author_Email>submit@fuh-edv.de</Author_Email>
+			<Contact_First_Name>Oliver</Contact_First_Name>
+			<Contact_Last_Name>Heggelbacher</Contact_Last_Name>
+			<Contact_Email>submit@fuh-edv.de</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email>info@fuh-edv.de</Sales_Email>
+			<Support_Email>docklight@fuh-edv.de</Support_Email>
+			<General_Email>info@fuh-edv.de</General_Email>
+			<Sales_Phone>+49 89-38169745-2</Sales_Phone>
+			<Support_Phone>+49 89-38169745-2</Support_Phone>
+			<General_Phone>+49 89-38169745-2</General_Phone>
+			<Fax_Phone>+49 89-38169745-9</Fax_Phone>
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>Docklight RS232 Terminal - RS232 Monitor</Program_Name>
+		<Program_Version>2.2.8</Program_Version>
+		<Program_Release_Month>11</Program_Release_Month>
+		<Program_Release_Day>25</Program_Release_Day>
+		<Program_Release_Year>2016</Program_Release_Year>
+		<Program_Cost_Dollars>69</Program_Cost_Dollars>
+		<Program_Cost_Other_Code>EUR</Program_Cost_Other_Code>
+		<Program_Cost_Other>59</Program_Cost_Other>
+		<Program_Type>Shareware</Program_Type>
+		<Program_Release_Status>Minor Update</Program_Release_Status>
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
+		<Program_OS_Support>Win7 x32,Win7 x64,WinVista,WinVista x64,WinXP,Other</Program_OS_Support>
+		<Program_Language>English</Program_Language>
+		<Program_Change_Info>Windows visual styles and high DPI aware</Program_Change_Info>
+		<Program_Specific_Category>Development Tools</Program_Specific_Category>
+		<Program_Category_Class>Development::Debugging</Program_Category_Class>
+		<Program_System_Requirements>COM port(s) available</Program_System_Requirements>
+		<File_Info>
+			<File_Size_Bytes>4657913</File_Size_Bytes>
+			<File_Size_K>4548</File_Size_K>
+			<File_Size_MB>4.44</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>Y</Has_Expire_Info>
+			<Expire_Count>99999999</Expire_Count>
+			<Expire_Based_On>Days</Expire_Based_On>
+			<Expire_Other_Info>limited functionality in evaluation version</Expire_Other_Info>
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>rs232,rs-232,docklight,rs232 terminal,rs232 monitor,com port,serial port,virtual com,serial,communication,communications,logger,analyzer,sniffer,terminal,serial,analyzer,hex,rs485,rs422,rs232 tester,rs232 debugger,protocol tester,logging</Keywords>
+			<Char_Desc_45>RS232 Terminal / RS232 Monitor</Char_Desc_45>
+			<Char_Desc_80>Test, analysis and simulation for serial communication protocols (RS232, ...)</Char_Desc_80>
+			<Char_Desc_250>Docklight is a testing, analysis and simulation tool for serial communication protocols (RS232, RS485/422 and others). * Simulating serial protocols * Logging RS232 data * Detecting specific data sequences * Responding to incoming data</Char_Desc_250>
+			<Char_Desc_450>Docklight is a testing, analysis and simulation tool for serial communication protocols (RS232, RS485/422 and others). It allows you to monitor the communication between two serial devices or to test the serial communication of a single device. Key functions include: * Simulating serial protocols * Logging RS232 data * Detecting specific data sequences * Responding to incoming data.</Char_Desc_450>
+			<Char_Desc_2000>Docklight is a testing, analysis and simulation tool for serial communication protocols (RS232, RS485/422 and others). It allows you to monitor the communication between two serial devices or to test the serial communication of a single device. Docklight is easy to use and runs on almost any standard PC using Windows 10 / 8 / 7 / Vista / XP. Key functions include: 
+  * Simulating serial protocols - Docklight can send out user-defined sequences according to the protocol used and it can react to incoming sequences. This makes it possible to simulate the behavior of a serial communication device, which is particularly useful for generating test conditions that are hard to reproduce with the original device (e.g. problem conditions). 
+  * Logging RS232 data - All serial communication data can be logged using two different file formats: use plain text format for fast logging and storing huge amounts of data. Or create a HTML file with styled text that lets you easily distinguish between incoming and outgoing data or additional information. 
+  * Detecting specific data sequences - In many test cases you will need to check for a specific sequence within the RS232 data that indicates a problem condition. Docklight manages a list of such data sequences for you and is able to perform user-defined actions after detecting a sequence, e.g. taking a snapshot of all communication data before and after the error message was received.
+  * Responding to incoming data - Docklight lets you specify user-defined answers to the different communication sequences received. This allows you to build a basic simulator for your serial device within a few minutes. It can also help you to trace a certain error by sending out a diagnostics command after receiving the error message.
+  * Docklight has been successfully tested with many popular USB-to-RS232 converters, virtual null modem software, and many other Embedded Development tools that appear as a virtual COM port.</Char_Desc_2000>
+		</English>
+		<French>
+			<Keywords>rs232,rs-232,docklight,com,monitor,serial,sniffer,terminal,rs485,rs422,tester,logger,communication série,analyseur de protocole,simulateur de protocole,monitorer liaison série,espionner liaison série,testeur de protocole,simulateur de protocole</Keywords>
+			<Char_Desc_45>Terminal RS232 / Moniteur RS232</Char_Desc_45>
+			<Char_Desc_80>Tester/analyser/simuler des protocoles de communication série (RS232 et autres)</Char_Desc_80>
+			<Char_Desc_250>Tester/analyser/simuler des protocoles de communication série (RS232, RS485...). * Simulation de protocoles séries * Enregistrement des données transitant via une liaison RS232 * Détection de séquences de données spécifiques * Réponses automatiques</Char_Desc_250>
+			<Char_Desc_450>Docklight est un utilitaire qui permet de tester/analyser et simuler des protocoles de communication série (RS232, RS485/422 et autres).  * Simulation de protocoles séries  * Enregistrement des données transitant via une liaison RS232  * Détection de séquences de données spécifiques  * Réponses automatiques à des données entrantes.</Char_Desc_450>
+			<Char_Desc_2000>Docklight est un utilitaire qui permet de tester/analyser et simuler des protocoles de communication série (RS232, RS485/422..). Il peut être utilisé pour observer la communication entre deux appareils ou pour tester/valider le protocole de communication série d'un appareil seul. Docklight est simple d'utilisation et peut être exécuté sur pratiquement tout PC standard utilisant un système d'exploitation Windows 8 / 7 / Vista / XP.  
+  * Simulation de protocoles séries - Docklight peut être utilisé pour émettre des séquences prédéfinies en fonction du protocole de communication utilisé afin d'observer la réaction de l'appareil connecté. Docklight peut aussi réagir automatiquement sur des séquences entrantes; ceci permettra entre autre de simuler le comportement d'une communication série d'un appareil
+afin de tester par exemple un logiciel connecté.
+  * Enregistrement des données transitant via une liaison RS232 - Les données d'une communication série peuvent être espionnées et enregistrées dans deux format de fichiers différents: un format texte dont l'enregistrement sur le disque sera très rapide et qui permettra la traçabilité d'un flot de données importants, un format HTML dont les couleurs permettront de reconnaître simplement le sens de transit des données ainsi que les différentes informations éventuellement ajoutées par Docklight.
+  * Détection de séquences de données spécifiques - Dans certains cas d'utilisation vous pouvez être amenés à devoir détecter des séquences spécifiques transitant via la liaison série. Docklight permet la définition d'une liste de séquences et vous permet d'effectuer une liste d'actions lorsqu'une telle séquence est détectée.
+  * Réponses automatiques à des données entrantes - Docklight vous permet de spécifier des réponses à différentes séquences entrantes. Ceci vous permet de créer une simulation basique de la partie communication d'un appareil.
+  * Docklight à été testé avec succès avec plusieurs convertisseurs USB-RS232.</Char_Desc_2000>
+		</French>
+		<German>
+			<Keywords>rs232,rs-232,docklight,rs232 terminal,rs232 monitor,com port,serial port,virtual com,serial,communication,communications,logger,analyzer,sniffer,terminal,serial,analyzer,hex,rs485,rs422,rs232 tester,rs232 debugger,protocol tester,logging</Keywords>
+			<Char_Desc_45>RS232 Terminal / RS232 Monitor</Char_Desc_45>
+			<Char_Desc_80>Test-, Analyse- und Simulations-Werkzeug für serielle Protokolle (RS232 u.a.)</Char_Desc_80>
+			<Char_Desc_250>Docklight ist ein Test-, Analyse- und Simulations-Werkzeug für serielle Kommunikationsprotokolle (RS232 u.a.).  * Simulation serieller Protokolle  * Protokollieren von RS232-Daten  * Aufspüren spezieller Sequenzen  * Auf empfangene Daten antworten</Char_Desc_250>
+			<Char_Desc_450>Docklight ist ein Test-, Analyse- und Simulations-Werkzeug für serielle Kommunikationsprotokolle (RS232, RS485/422 u.a.). Es wird zur Überwachung der Kommunikation zwischen zwei seriellen Geräten eingesetzt oder um die serielle Kommunikation eines einzelnen Geräts zu testen. Grundfunktionen:  * Simulation serieller Protokolle  * Protokollieren von RS232-Daten  * Aufspüren spezieller Sequenzen  * Auf empfangene Daten antworten</Char_Desc_450>
+			<Char_Desc_2000>Docklight ist ein Test-, Analyse- und Simulations-Werkzeug für serielle Kommunikationsprotokolle (RS232, RS485/422 u.a.). Es wird zur Überwachung der Kommunikation zwischen zwei seriellen Geräten eingesetzt oder um die serielle Kommunikation eines einzelnen Geräts zu testen. Docklight ist einfach zu bedienen und läuft auf fast allen Standard-PCs unter Windows 10 / 8 / 7 / Vista / XP.
+  * Simulation serieller Protokolle - Mit Docklight können frei definierbare Sequenzen eines Kommunikationsprotokolls gesendet werden. Docklight kann auf eine empfangene Sequenz reagieren und eine benutzerdefinierte Reaktion aussenden. Dies ermöglicht die Simulation eines seriellen Geräts bzw. dessen Verhalten. Insbesondere können so Testbedingungen simuliert werden, die mit dem Originalgerät schwer zu reproduzieren sind, z.B. Fehlfunktionen.
+  * Protokollieren von RS232-Daten - Alle seriellen Kommunikationsdaten können protokolliert werden, entweder in einem Standard-Textformat (hohe Verarbeitungsgeschwindigkeit), oder in HTML-Format mit farblicher Kennzeichnung.
+  * Aufspüren spezieller Sequenzen - In vielen Test-Szenarios sollen besondere Sequenzen innerhalb des RS232-Datenstroms erkannt werden, welche auf ein Problem hinweisen. Docklight erlaubt Ihnen, eine Liste solcher Datensequenzen zu verwalten und Aktionen festzulegen, die Docklight nach dem Empfang einer Sequenz ausführen soll. Sie können z.B. einen Schnappschuss der RS232-Kommunikationsdaten vor und nach dem Empfang eines Fehlercodes aufnehmen.
+  * Auf empfangene Daten antworten - Mit Docklight können benutzerdefinierte Antworten auf die unterschiedlichen Empfangssequenzen definiert werden. So können Sie in wenigen Minuten einen einfachen Simulator für ein serielles Gerät zusammenstellen. Oder Sie können nach dem Empfang eines Fehlercodes ein spezielles Diagnosekommando an Ihr serielles Gerät schicken, um die Fehlerursache zu finden.
+  * Docklight wurde mit verschiedenen USB-nach-RS232-Konvertern erfolgreich getestet.</Char_Desc_2000>
+		</German>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>http://www.docklight.de</Application_Info_URL>
+			<Application_Order_URL>http://www.docklight.de/shop_en.htm</Application_Order_URL>
+			<Application_Screenshot_URL>http://www.docklight.de/img/docklight_screenshot.png</Application_Screenshot_URL>
+			<Application_Icon_URL>http://www.docklight.de/img/docklight_icon_32x32.png</Application_Icon_URL>
+			<Application_XML_File_URL>http://www.docklight.de/padfiles/docklpad.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>http://www.docklight.de/download/Docklight.zip</Primary_Download_URL>
+			<Secondary_Download_URL>http://www.fuh-edv.de/docklight/download/Docklight.zip</Secondary_Download_URL>
+			<Additional_Download_URL_1 />
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions>fuh_distribute_int.txt
+
+Flachmann und Heggelbacher
+Software Distribution Agreement:
+
+This software product is Copyright 2016 Flachmann und Heggelbacher GbR
+(www.fuh-edv.de). All rights reserved.
+
+The evaluation version of this software may be freely distributed, with exceptions noted below, provided the distribution package (.zip file) is not modified. No person or company may charge a fee for the distribution of this software product without written permission from the copyright holder. This software product may not be bundled or distributed with any other package without written permission of the copyright holder.
+
+THE EVALUATION VERSION OF THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. 
+IN NO EVENT SHALL "FLACHMANN UND HEGGELBACHER" OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</Distribution_Permissions>
+		<EULA>Flachmann und Heggelbacher
+Software End User License Agreement 
+For 1 (one) Computer
+
+NOTICE TO USER:
+THIS IS A CONTRACT BETWEEN YOU AND "FLACHMANN UND HEGGELBACHER" ("FuH"), A COMPANY LOCATED IN NEURIED, GERMANY. BY INDICATING YOUR ACCEPTANCE BELOW, YOU ACCEPT ALL THE TERMS AND CONDITIONS OF THIS AGREEMENT. This License Agreement accompanies an FuH(r) software product ("Software") and related explanatory written materials ("Documentation"). This copy of the Software is licensed to you as the end user or to your employer or another third party authorized to permit your use of the Software.  "You" as used in the remainder of this License Agreement refers to the licensee. 
+
+Upon your acceptance of this Agreement, FuH grants to you a non-exclusive license to use the Software and Documentation, provided that you agree to the following:
+
+1. Use of the Software. 	
+You may-
+* Install the Software in a single location on a hard disk or other storage device on a single computer.
+* Make one backup copy of the Software, provided your backup copy is not installed or used on any computer.
+* Home Use: The primary user of each computer on which the Software is installed or used may also install the Software on one home or portable computer.  However, the Software may not be used on the secondary computer by another person at the same time the Software on the primary computer is being used.
+
+2. Copyright. 	The Software is the intellectual property of FuH and its suppliers and is protected by German copyright law, international treaty provisions, and applicable laws of the country in which it is being used. Any copies that you are permitted to make pursuant to this Agreement must contain the same copyright and other proprietary notices that appear on or in the Software. Except as may be expressly permitted under the European Directive on the Legal Protection of Computer Programs (14 May 1991), you agree not to modify, adapt, translate, reverse engineer, decompile, disassemble or otherwise attempt to discover the source code of the Software.
+
+3. Transfer. 	You may not rent, lease, sublicense, or lend the Software or Documentation. You may, however, transfer all your rights to use the Software to another person or legal entity provided that you transfer this Agreement, the Software, including all copies, updates and prior versions, and all Documentation to such person or entity and that you retain no copies, including copies stored on a computer.
+
+4. Limited Warranty.	FuH warrants to you that the Software will perform substantially in accordance with the Documentation for the ninety (90) day period following your receipt of the Software. To make a warranty claim, you must return the Software to the location where you obtained it along with a copy of your sales receipt within such ninety (90) day period. If the Software does not perform substantially in accordance with the Documentation, the entire and exclusive liability of FuH and its suppliers, and your exclusive remedy shall be limited to either, at FuH's option, the replacement of the Software or the refund of the license fee you paid for the Software.
+
+FuH AND ITS SUPPLIERS DO NOT AND CANNOT WARRANT THE PERFORMANCE OR RESULTS YOU MAY OBTAIN BY USING THE SOFTWARE OR DOCUMENTATION.  THE FOREGOING STATES THE SOLE AND EXCLUSIVE REMEDIES FOR FuH'S OR ITS SUPPLIERS' BREACH OF WARRANTY.  EXCEPT FOR THE FOREGOING LIMITED WARRANTY, FuH AND ITS SUPPLIERS MAKE NO WARRANTIES OR CONDITIONS, EXPRESS OR IMPLIED, AS TO NONINFRINGEMENT OF THIRD PARTY RIGHTS, MERCHANTABILITY, OR FITNESS FOR ANY PARTICULAR PURPOSE. IN NO EVENT WILL FuH OR ITS SUPPLIERS BE LIABLE TO YOU FOR ANY CONSEQUENTIAL, INCIDENTAL OR SPECIAL DAMAGES, INCLUDING ANY LOST PROFITS OR LOST SAVINGS, EVEN IF AN FuH REPRESENTATIVE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, OR FOR ANY CLAIM BY ANY THIRD PARTY. 
+
+Some states or jurisdictions do not allow the exclusion or limitation of incidental, consequential or special damages, or the exclusion of implied warranties or limitations on how long an implied warranty may last, so the above limitations may not apply to you. To the extent permissible, any implied warranties are limited to ninety (90) days. This warranty gives you specific legal rights. You may have other rights which vary from state to state or jurisdiction to jurisdiction. For further warranty information, please contact FuH's Customer Support Department. 
+
+5. General Provisions.	If any part of this Agreement is found void and unenforceable, it will not affect the validity of the balance of the Agreement, which shall remain valid and enforceable according to its terms. This Agreement shall automatically terminate upon failure by you to comply with its terms. This Agreement may only be modified in writing signed by an authorized officer of FuH.
+</EULA>
+	</Permissions>
+</XML_DIZ_INFO>

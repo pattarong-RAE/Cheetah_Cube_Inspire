@@ -1,0 +1,13 @@
+fuh_distribute_int.txt
+
+Flachmann und Heggelbacher
+Software Distribution Agreement:
+
+This software product is Copyright 2016 Flachmann und Heggelbacher GbR
+(www.fuh-edv.de). All rights reserved.
+
+The evaluation version of this software may be freely distributed, with exceptions noted below, provided the distribution package (.zip file) is not modified. No person or company may charge a fee for the distribution of this software product without written permission from the copyright holder. This software product may not be bundled or distributed with any other package without written permission of the copyright holder.
+
+THE EVALUATION VERSION OF THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. 
+IN NO EVENT SHALL "FLACHMANN UND HEGGELBACHER" OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
